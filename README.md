@@ -55,7 +55,7 @@ Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
-<img src="Resources/images/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Revenue & CustomerTrends" width="50%">  
+<img src="Resources/images/5.2_monthly_customer_revenue_3mo.png" alt="Monthly Revenue & CustomerTrends" width="50%">  
 
 📊 **Key Findings:**  
 - Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+, while 2024 cohort spending dropped to ~$1,970.  
